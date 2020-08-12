@@ -1,6 +1,3 @@
-# quantum-grammar-documentation
-
-
 # :QUANTUM-GRAMMAR: Study Guide
 
 # Index
