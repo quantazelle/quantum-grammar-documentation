@@ -78,7 +78,7 @@ Text within brackets "[]" is not part of the document. Text between them is cons
 [This is a clarifying statement.]
 ```
 
-[^br-d]: "~40 BOXING-TERM =[ ] ARE with the VOIDANCE-CLAIM of the FACTS inside a BOX or: BRACKET =[ ]." :DAVID-WYNN°: MILLER:(http://www.dwmlc.com/dwm/pages/category.php?category=1) 
+[^br-d]: (http://www.dwmlc.com/dwm/pages/category.php?category=1)
 
 ### Parentheses
 Text within parentheses () are not part of the document. They function as clarification or explanation for the reader provided in simplified English. 
